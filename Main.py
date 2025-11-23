@@ -107,5 +107,6 @@ def main():
     save_workout(exercises)
     print("\nSKAL, Warrior. Another brick in the forge of fate has been laid")
 
-    if __name__ == "__main__":
+if __name__ == "__main__":
+
         main()
